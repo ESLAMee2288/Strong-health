@@ -1,7 +1,7 @@
 <h1 align="center">🌿 فريق الابتكار الذكي - Smart Innovation Team</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF7F&size=28&center=true&vCenter=true&width=700&lines=تحت إشراف وزارة الإتصالات المصرية+Digitopia;Digitopia Health Project" alt="Digitopia Health Project"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=28&center=true&vCenter=true&width=700&lines=%D8%AA%D8%AD%D8%AA%20%D8%A5%D8%B4%D8%B1%D8%A7%D9%81%20%D9%88%D8%B2%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A5%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9+Digitopia;Digitopia%20Health%20Project" alt="Digitopia Health Project"/>
 </p>
 
 ---
