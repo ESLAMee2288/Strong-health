@@ -36,7 +36,7 @@
     <td align="center">
       <a href="https://github.com/AbdallahDv" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80"/><br/>
-        <sub><b>Abdullah</b><br/>قائد الفريق</sub>
+        <sub><b>Abdallah</b><br/>قائد الفريق</sub>
       </a>
     </td>
     <td align="center">
